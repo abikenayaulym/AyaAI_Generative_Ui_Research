@@ -5,7 +5,7 @@ This repository contains the dataset and the Python analysis script for my UX re
 # Project Overview
 This research evaluates how Generative UI (interactive, AI-generated widgets) affects user performance compared to standard text-based AI chat interfaces. The goal was to quantify the "Prompt Fatigue" problem and prove that visual constraints can lead to faster and less stressful interactions.
 
-# Methodology
+Methodology
 *   **Study Type:** Comparative A/B Testing.
 *   **Participants:** 87 people.
 *   **Task:** Search for a specific Master's program in Japan under strict constraints.
