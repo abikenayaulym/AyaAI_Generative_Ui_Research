@@ -28,7 +28,7 @@ My statistical analysis using Python revealed:
 
 ## Detailed Case Study
 For a comprehensive breakdown of the design process, user personas, and methodology, visit my full project case study in Notion:
- **[My Case Study in Notion](https://app.notion.com/p/Research-Project-Generative-UI-vs-Text-Chat-for-Reducing-Cognitive-Load-in-Educational-Search-39d90876b79780538d39e6e7fc49f172?source=copy_link)**
+  **[My Case Study in Notion](https://waiting-height-473.notion.site/Research-Project-Generative-UI-vs-Text-Chat-for-Reducing-Cognitive-Load-in-Educational-Search-39d90876b79780538d39e6e7fc49f172?source=copy_link)**
 
 ---
 ## Author
