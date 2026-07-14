@@ -7,7 +7,7 @@ This research evaluates how Generative UI (interactive, AI-generated widgets) af
 
 ## Methodology
 * **Study Type:** Comparative A/B Testing.
-*  **Participants:** 87 undergraduate/graduate students.
+*  **Participants:** 87 people.
 *  **Task:** Search for a specific Master's program in Japan under strict constraints.
 *  **Metrics:** Task completion time (seconds) and self-reported cognitive load (NASA-TLX scale).
 
