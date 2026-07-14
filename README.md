@@ -1,4 +1,4 @@
-# AyaAI_Generative_Ui_Research
+# AyaAI Generative Ui Research
 
 This repository contains the dataset and the Python analysis script for my UX research project: **"Generative UI vs. Text Chat: Reducing Cognitive Load in Educational Search"**.
 
