@@ -6,10 +6,10 @@ This repository contains the dataset and the Python analysis script for my UX re
 This research evaluates how Generative UI (interactive, AI-generated widgets) affects user performance compared to standard text-based AI chat interfaces. The goal was to quantify the "Prompt Fatigue" problem and prove that visual constraints can lead to faster and less stressful interactions.
 
 ## Methodology
-1. **Study Type:** Comparative A/B Testing.
-2. **Participants:** 87 undergraduate/graduate students.
-3. **Task:** Search for a specific Master's program in Japan under strict constraints.
-4. **Metrics:** Task completion time (seconds) and self-reported cognitive load (NASA-TLX scale).
+* **Study Type:** Comparative A/B Testing.
+*  **Participants:** 87 undergraduate/graduate students.
+*  **Task:** Search for a specific Master's program in Japan under strict constraints.
+*  **Metrics:** Task completion time (seconds) and self-reported cognitive load (NASA-TLX scale).
 
 ## Repository Structure
 1. `AyaAI - Form responses 1.csv` — Raw, anonymized user survey data.
@@ -17,9 +17,9 @@ This research evaluates how Generative UI (interactive, AI-generated widgets) af
 
 ## Prerequisites
 To run the analysis script, ensure you have Python 3.x installed along with the following libraries:
-
-`pip install pandas matplotlib seaborn scipy numpy`
-
+```bash
+pip install pandas matplotlib seaborn scipy numpy
+```
 ## Key Findings
 My statistical analysis using Python revealed:
 1. **Efficiency:** The Generative UI reduced task completion time by **3.5x** (57.7s vs 199.5s).
