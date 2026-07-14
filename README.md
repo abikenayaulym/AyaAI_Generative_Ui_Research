@@ -17,6 +17,7 @@ This research evaluates how Generative UI (interactive, AI-generated widgets) af
 
 ## Prerequisites
 To run the analysis script, ensure you have Python 3.x installed along with the following libraries:
+
 `pip install pandas matplotlib seaborn scipy numpy`
 
 ## Key Findings
