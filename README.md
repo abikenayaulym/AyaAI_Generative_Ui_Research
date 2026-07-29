@@ -30,7 +30,8 @@ Preference: 81.6% of users preferred the Generative UI.
 Note: Qualitative findings for Cohort B are detailed in the full case study.
 
 ## Links
-Full UX Case Study in Notion: [(https://app.notion.com/p/Research-Project-Generative-UI-vs-Text-Chat-for-Reducing-Cognitive-Load-in-Educational-Search-39d90876b79780538d39e6e7fc49f172?source=copy_link)]
+Full UX Case Study in Notion: https://app.notion.com/p/Research-Project-Generative-UI-vs-Text-Chat-for-Reducing-Cognitive-Load-in-Educational-Search-39d90876b79780538d39e6e7fc49f172?source=copy_link
+
 Interactive Video Demo: https://youtu.be/R_6T1GV2QbY
 
 Researcher: Ayaulym Abiken (July 2026)
